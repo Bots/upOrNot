@@ -11,7 +11,7 @@ npm install upornot
 ```
 
 ## Usage
-
+Usage is simple, just run "upornot whatever.com" without the quotes to test a URL. Example:
 ```bash
 $: upornot duckduckgo.com
 ```
