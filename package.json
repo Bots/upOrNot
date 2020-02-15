@@ -1,6 +1,6 @@
 {
   "name": "upornot",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A CLI tool to test whether a website is up or not",
   "main": "index.js",
   "scripts": {
