@@ -4,7 +4,7 @@ UpOrNot is a npm CLI tool for discovering whether a website is up or not.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/) to install upornot.
 
 ```bash
 npm install upornot
@@ -13,7 +13,7 @@ npm install upornot
 ## Usage
 
 ```bash
-$:upornot website.com
+$: upornot duckduckgo.com
 ```
 
 ## Contributing
